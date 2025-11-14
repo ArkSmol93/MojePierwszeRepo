@@ -1,0 +1,4 @@
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.AssemblyInfoInputs.cache
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.AssemblyInfo.cs
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.csproj.CoreCompileInputs.cache
