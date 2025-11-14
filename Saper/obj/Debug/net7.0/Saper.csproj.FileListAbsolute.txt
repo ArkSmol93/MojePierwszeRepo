@@ -2,3 +2,13 @@ C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Sa
 C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.AssemblyInfoInputs.cache
 C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.AssemblyInfo.cs
 C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.csproj.CoreCompileInputs.cache
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\bin\Debug\net7.0\Saper.exe
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\bin\Debug\net7.0\Saper.deps.json
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\bin\Debug\net7.0\Saper.runtimeconfig.json
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\bin\Debug\net7.0\Saper.dll
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\bin\Debug\net7.0\Saper.pdb
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.dll
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\refint\Saper.dll
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.pdb
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\Saper.genruntimeconfig.cache
+C:\Users\smola\Source\Repos\ArkSmol93\MojePierwszeRepo\Saper\obj\Debug\net7.0\ref\Saper.dll
